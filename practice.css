@@ -76,6 +76,6 @@ body{
     list-style: none;
 }
 
-.carousel-inner .carousel-item{
-    border-radius: 50%;
+.carousel-inner .carousel-item img{
+    border-radius:400%;
 }
