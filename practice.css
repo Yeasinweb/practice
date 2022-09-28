@@ -130,3 +130,6 @@ body{
     transition: opacity .15s ease;
     margin-top: 200px;
 }
+.rootnext h1{
+    font-size: 10vmin;
+}
