@@ -17,6 +17,14 @@ body{
 .banner_gradient{
    background-image: linear-gradient(to right, #9A4399, #632B80);
     color: white;
+    height: 100vh;
+}
+
+.banner-footer{
+    margin-top: -5px;
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
 }
 
 .bottom_image{
